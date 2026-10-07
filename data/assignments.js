@@ -78,6 +78,13 @@ assignments = {
       "dueDate": "2026-10-02T16:30:00",
       "link": "https://www.gradescope.com/courses/1410809/assignments/8796011/submissions/433215672",
       "submitted": true
+    },
+    {
+      "title": "Assignment 2. Regular Expressions and Python Scripting",
+      "course": "26F-COM SCI-35L-LEC-1",
+      "dueDate": "2026-10-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/1410809",
+      "submitted": false
     }
   ],
   "26F-MATH-33A-LEC-1": [
@@ -106,6 +113,13 @@ assignments = {
       "title": "Homework 4",
       "course": "26F-MATH-33A-LEC-1",
       "dueDate": "2026-10-12T09:00:00",
+      "link": "https://www.gradescope.com/courses/1410864",
+      "submitted": false
+    },
+    {
+      "title": "Homework 5",
+      "course": "26F-MATH-33A-LEC-1",
+      "dueDate": "2026-10-14T09:00:00",
       "link": "https://www.gradescope.com/courses/1410864",
       "submitted": false
     }
