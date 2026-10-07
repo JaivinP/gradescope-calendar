@@ -80,15 +80,6 @@ assignments = {
       "submitted": true
     }
   ],
-  "26F-COM SCI-35L-LEC-2": [
-    {
-      "title": "Assignment 1",
-      "course": "26F-COM SCI-35L-LEC-2",
-      "dueDate": "2026-10-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/1409837",
-      "submitted": false
-    }
-  ],
   "26F-MATH-33A-LEC-1": [
     {
       "title": "Homework 1",
