@@ -99,6 +99,20 @@ assignments = {
       "dueDate": "2026-10-14T23:59:00",
       "link": "https://www.gradescope.com/courses/1410809",
       "submitted": false
+    },
+    {
+      "title": "Project Plan & Initial Schedule",
+      "course": "26F-COM SCI-35L-LEC-1",
+      "dueDate": "2026-10-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/1410809",
+      "submitted": false
+    },
+    {
+      "title": "Worksheet 2",
+      "course": "26F-COM SCI-35L-LEC-1",
+      "dueDate": "2026-10-09T17:48:00",
+      "link": "https://www.gradescope.com/courses/1410809",
+      "submitted": false
     }
   ],
   "26F-MATH-33A-LEC-1": [
@@ -134,6 +148,13 @@ assignments = {
       "title": "Homework 5",
       "course": "26F-MATH-33A-LEC-1",
       "dueDate": "2026-10-14T09:00:00",
+      "link": "https://www.gradescope.com/courses/1410864",
+      "submitted": false
+    },
+    {
+      "title": "Homework 6",
+      "course": "26F-MATH-33A-LEC-1",
+      "dueDate": "2026-10-16T09:00:00",
       "link": "https://www.gradescope.com/courses/1410864",
       "submitted": false
     }
