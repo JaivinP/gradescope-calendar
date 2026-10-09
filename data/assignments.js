@@ -62,6 +62,20 @@ assignments = {
       "dueDate": "2026-10-02T23:59:00",
       "link": "https://www.gradescope.com/courses/1408211/assignments/8789737/submissions/433530420",
       "submitted": true
+    },
+    {
+      "title": "Week 2 Discussion Individual Work",
+      "course": "26F-COM SCI-180-LEC-2",
+      "dueDate": "2026-10-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/1408211",
+      "submitted": false
+    },
+    {
+      "title": "Week 2 Discussion Group Check-In",
+      "course": "26F-COM SCI-180-LEC-2",
+      "dueDate": "2026-10-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/1408211",
+      "submitted": false
     }
   ],
   "26F-COM SCI-35L-LEC-1": [
