@@ -53,8 +53,8 @@ assignments = {
       "title": "PS1",
       "course": "26F-COM SCI-180-LEC-2",
       "dueDate": "2026-10-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/1408211",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1408211/assignments/8789720/submissions/435927490",
+      "submitted": true
     },
     {
       "title": "Week 1 Discussion Individual Work",
@@ -76,6 +76,13 @@ assignments = {
       "dueDate": "2026-10-09T23:59:00",
       "link": "https://www.gradescope.com/courses/1408211/assignments/8842078/submissions/435839832",
       "submitted": true
+    },
+    {
+      "title": "PS2",
+      "course": "26F-COM SCI-180-LEC-2",
+      "dueDate": "2026-10-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/1408211",
+      "submitted": false
     }
   ],
   "26F-COM SCI-35L-LEC-1": [
@@ -111,8 +118,8 @@ assignments = {
       "title": "Worksheet 2",
       "course": "26F-COM SCI-35L-LEC-1",
       "dueDate": "2026-10-09T17:48:00",
-      "link": "https://www.gradescope.com/courses/1410809",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1410809/assignments/8845325/submissions/435936798",
+      "submitted": true
     }
   ],
   "26F-MATH-33A-LEC-1": [
