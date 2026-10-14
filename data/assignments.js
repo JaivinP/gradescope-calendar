@@ -155,8 +155,8 @@ assignments = {
       "title": "Homework 5",
       "course": "26F-MATH-33A-LEC-1",
       "dueDate": "2026-10-14T09:00:00",
-      "link": "https://www.gradescope.com/courses/1410864",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1410864/assignments/8715568/submissions/437029564",
+      "submitted": true
     },
     {
       "title": "Homework 6",
