@@ -104,8 +104,8 @@ assignments = {
       "title": "Assignment 2. Regular Expressions and Python Scripting",
       "course": "26F-COM SCI-35L-LEC-1",
       "dueDate": "2026-10-14T23:59:00",
-      "link": "https://www.gradescope.com/courses/1410809",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1410809/assignments/8828646/submissions/437443045",
+      "submitted": true
     },
     {
       "title": "Project Plan & Initial Schedule",
