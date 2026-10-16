@@ -125,8 +125,8 @@ assignments = {
       "title": "Project Plan & Initial Schedule",
       "course": "26F-COM SCI-35L-LEC-1",
       "dueDate": "2026-10-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/1410809",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1410809/assignments/8844081/submissions/438079385",
+      "submitted": true
     },
     {
       "title": "Worksheet 2",
@@ -139,6 +139,13 @@ assignments = {
       "title": "Assignment 3",
       "course": "26F-COM SCI-35L-LEC-1",
       "dueDate": "2026-10-21T23:59:00",
+      "link": "https://www.gradescope.com/courses/1410809",
+      "submitted": false
+    },
+    {
+      "title": "Worksheet 3",
+      "course": "26F-COM SCI-35L-LEC-1",
+      "dueDate": "2026-10-16T17:05:00",
       "link": "https://www.gradescope.com/courses/1410809",
       "submitted": false
     }
