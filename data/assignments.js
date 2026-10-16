@@ -124,7 +124,7 @@ assignments = {
     {
       "title": "Project Plan & Initial Schedule",
       "course": "26F-COM SCI-35L-LEC-1",
-      "dueDate": "2026-10-16T23:59:00",
+      "dueDate": "2026-10-17T23:59:00",
       "link": "https://www.gradescope.com/courses/1410809/assignments/8844081/submissions/438079385",
       "submitted": true
     },
