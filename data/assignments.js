@@ -88,8 +88,8 @@ assignments = {
       "title": "Week 3 Discussion Group Check-In",
       "course": "26F-COM SCI-180-LEC-2",
       "dueDate": "2026-10-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/1408211",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1408211/assignments/8883402/submissions/438211136",
+      "submitted": true
     },
     {
       "title": "Week 3 Discussion Individual Work",
@@ -146,8 +146,8 @@ assignments = {
       "title": "Worksheet 3",
       "course": "26F-COM SCI-35L-LEC-1",
       "dueDate": "2026-10-16T17:05:00",
-      "link": "https://www.gradescope.com/courses/1410809",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1410809/assignments/8888442/submissions/438352647",
+      "submitted": true
     }
   ],
   "26F-MATH-33A-LEC-1": [
