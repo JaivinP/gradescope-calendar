@@ -81,8 +81,8 @@ assignments = {
       "title": "PS2",
       "course": "26F-COM SCI-180-LEC-2",
       "dueDate": "2026-10-16T23:59:00",
-      "link": "https://www.gradescope.com/courses/1408211",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1408211/assignments/8847226/submissions/438650989",
+      "submitted": true
     },
     {
       "title": "Week 3 Discussion Group Check-In",
@@ -204,8 +204,8 @@ assignments = {
       "title": "Homework 7",
       "course": "26F-MATH-33A-LEC-1",
       "dueDate": "2026-10-19T09:00:00",
-      "link": "https://www.gradescope.com/courses/1410864",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1410864/assignments/8715587/submissions/438652992",
+      "submitted": true
     },
     {
       "title": "Homework 8",
