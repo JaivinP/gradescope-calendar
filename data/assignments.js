@@ -155,6 +155,13 @@ assignments = {
       "dueDate": "2026-10-16T17:05:00",
       "link": "https://www.gradescope.com/courses/1410809/assignments/8888442/submissions/438352647",
       "submitted": true
+    },
+    {
+      "title": "Assignment 4: Git Histories",
+      "course": "26F-COM SCI-35L-LEC-1",
+      "dueDate": "2026-10-28T23:59:00",
+      "link": "https://www.gradescope.com/courses/1410809",
+      "submitted": false
     }
   ],
   "26F-MATH-33A-LEC-1": [
