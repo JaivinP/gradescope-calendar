@@ -116,8 +116,8 @@ assignments = {
       "title": "Week 4 Discussion Group Check-In",
       "course": "26F-COM SCI-180-LEC-2",
       "dueDate": "2026-10-23T23:59:00",
-      "link": "https://www.gradescope.com/courses/1408211",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1408211/assignments/8928769/submissions/440779341",
+      "submitted": true
     }
   ],
   "26F-COM SCI-35L-LEC-1": [
@@ -173,7 +173,7 @@ assignments = {
     {
       "title": "Assignment 4: Git Histories",
       "course": "26F-COM SCI-35L-LEC-1",
-      "dueDate": "2026-10-28T23:59:00",
+      "dueDate": "2026-10-30T23:59:00",
       "link": "https://www.gradescope.com/courses/1410809",
       "submitted": false
     },
