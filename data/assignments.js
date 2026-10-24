@@ -181,8 +181,8 @@ assignments = {
       "title": "Weekly Project Report 1",
       "course": "26F-COM SCI-35L-LEC-1",
       "dueDate": "2026-10-23T23:59:00",
-      "link": "https://www.gradescope.com/courses/1410809/assignments/8920533/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1410809/assignments/8920533/submissions/440909013",
+      "submitted": true
     },
     {
       "title": "Worksheet 4",
