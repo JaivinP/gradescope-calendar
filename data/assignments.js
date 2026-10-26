@@ -109,8 +109,8 @@ assignments = {
       "title": "Week 4 Discussion Individual Work",
       "course": "26F-COM SCI-180-LEC-2",
       "dueDate": "2026-10-23T23:59:00",
-      "link": "https://www.gradescope.com/courses/1408211",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1408211/assignments/8928764/submissions/441303318",
+      "submitted": true
     },
     {
       "title": "Week 4 Discussion Group Check-In",
@@ -118,6 +118,13 @@ assignments = {
       "dueDate": "2026-10-23T23:59:00",
       "link": "https://www.gradescope.com/courses/1408211/assignments/8928769/submissions/440779341",
       "submitted": true
+    },
+    {
+      "title": "PS4",
+      "course": "26F-COM SCI-180-LEC-2",
+      "dueDate": "2026-10-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/1408211",
+      "submitted": false
     }
   ],
   "26F-COM SCI-35L-LEC-1": [
@@ -183,6 +190,13 @@ assignments = {
       "dueDate": "2026-10-23T23:59:00",
       "link": "https://www.gradescope.com/courses/1410809/assignments/8920533/submissions/440909013",
       "submitted": true
+    },
+    {
+      "title": "Weekly Project Report 2",
+      "course": "26F-COM SCI-35L-LEC-1",
+      "dueDate": "2026-10-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/1410809/assignments/8920541/submissions/new",
+      "submitted": false
     },
     {
       "title": "Worksheet 4",
