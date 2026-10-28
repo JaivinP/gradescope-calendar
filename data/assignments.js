@@ -204,6 +204,13 @@ assignments = {
       "dueDate": "2026-10-23T17:53:00",
       "link": "https://www.gradescope.com/courses/1410809/assignments/8932991/submissions/440726164",
       "submitted": true
+    },
+    {
+      "title": "Assignment 5",
+      "course": "26F-COM SCI-35L-LEC-1",
+      "dueDate": "2026-10-28T23:59:00",
+      "link": "https://www.gradescope.com/courses/1410809",
+      "submitted": false
     }
   ],
   "26F-MATH-33A-LEC-1": [
