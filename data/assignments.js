@@ -195,8 +195,8 @@ assignments = {
       "title": "Assignment 4: Git Histories",
       "course": "26F-COM SCI-35L-LEC-1",
       "dueDate": "2026-10-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/1410809",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1410809/assignments/8916747/submissions/443380156",
+      "submitted": true
     },
     {
       "title": "Weekly Project Report 1",
