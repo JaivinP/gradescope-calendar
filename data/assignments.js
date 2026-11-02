@@ -130,8 +130,8 @@ assignments = {
       "title": "Week 5 Discussion Individual Work",
       "course": "26F-COM SCI-180-LEC-2",
       "dueDate": "2026-10-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/1408211",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1408211/assignments/8976324/submissions/443664155",
+      "submitted": true
     },
     {
       "title": "Week 5 Discussion Group Check-In",
