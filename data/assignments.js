@@ -346,6 +346,13 @@ assignments = {
       "dueDate": "2026-11-09T09:00:00",
       "link": "https://www.gradescope.com/courses/1410864",
       "submitted": false
+    },
+    {
+      "title": "Homework 16",
+      "course": "26F-MATH-33A-LEC-1",
+      "dueDate": "2026-11-12T09:00:00",
+      "link": "https://www.gradescope.com/courses/1410864",
+      "submitted": false
     }
   ]
 };
