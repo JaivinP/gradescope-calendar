@@ -139,6 +139,27 @@ assignments = {
       "dueDate": "2026-10-30T23:59:00",
       "link": "https://www.gradescope.com/courses/1408211/assignments/8976333/submissions/443501008",
       "submitted": true
+    },
+    {
+      "title": "Week 6 Discussion Group Check-In",
+      "course": "26F-COM SCI-180-LEC-2",
+      "dueDate": "2026-11-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/1408211",
+      "submitted": false
+    },
+    {
+      "title": "Week 6 Discussion Individual Work",
+      "course": "26F-COM SCI-180-LEC-2",
+      "dueDate": "2026-11-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/1408211",
+      "submitted": false
+    },
+    {
+      "title": "PS5",
+      "course": "26F-COM SCI-180-LEC-2",
+      "dueDate": "2026-11-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/1408211",
+      "submitted": false
     }
   ],
   "26F-COM SCI-35L-LEC-1": [
@@ -160,7 +181,7 @@ assignments = {
       "title": "Assignment 2. Regular Expressions and Python Scripting",
       "course": "26F-COM SCI-35L-LEC-1",
       "dueDate": "2026-10-14T23:59:00",
-      "link": "https://www.gradescope.com/courses/1410809/assignments/8828646/submissions/437443045",
+      "link": "https://www.gradescope.com/courses/1410809/assignments/8828646/submissions/445683777",
       "submitted": true
     },
     {
@@ -238,6 +259,13 @@ assignments = {
       "course": "26F-COM SCI-35L-LEC-1",
       "dueDate": "2026-10-30T17:52:00",
       "link": "https://www.gradescope.com/courses/1410809/assignments/8977964/submissions/443328328",
+      "submitted": true
+    },
+    {
+      "title": "Worksheet 6",
+      "course": "26F-COM SCI-35L-LEC-1",
+      "dueDate": "2026-11-06T17:29:00",
+      "link": "https://www.gradescope.com/courses/1410809/assignments/9018597/submissions/445685684",
       "submitted": true
     }
   ],
@@ -351,6 +379,13 @@ assignments = {
       "title": "Homework 16",
       "course": "26F-MATH-33A-LEC-1",
       "dueDate": "2026-11-12T09:00:00",
+      "link": "https://www.gradescope.com/courses/1410864",
+      "submitted": false
+    },
+    {
+      "title": "Homework 17",
+      "course": "26F-MATH-33A-LEC-1",
+      "dueDate": "2026-11-13T09:00:00",
       "link": "https://www.gradescope.com/courses/1410864",
       "submitted": false
     }
