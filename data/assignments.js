@@ -10,9 +10,9 @@ assignments = {
     {
       "title": "Extra Credit Quiz 1: Asymptotic Notation and Runtime Analysis",
       "course": "26F-COM SCI-180-LEC-2",
-      "dueDate": "2026-04-21T17:18:00",
-      "link": "https://www.gradescope.com/courses/1408211",
-      "submitted": false
+      "dueDate": "2026-11-05T17:13:00",
+      "link": "https://www.gradescope.com/courses/1408211/assignments/8699550/submissions/445337703",
+      "submitted": true
     },
     {
       "title": "Extra Credit Quiz: Graphs and Greedy Algorithms",
