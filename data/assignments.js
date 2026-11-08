@@ -250,7 +250,7 @@ assignments = {
     {
       "title": "Assignment 5",
       "course": "26F-COM SCI-35L-LEC-1",
-      "dueDate": "2026-11-11T12:59:00",
+      "dueDate": "2026-11-11T23:59:00",
       "link": "https://www.gradescope.com/courses/1410809",
       "submitted": false
     },
