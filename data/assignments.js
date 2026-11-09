@@ -151,8 +151,8 @@ assignments = {
       "title": "Week 6 Discussion Individual Work",
       "course": "26F-COM SCI-180-LEC-2",
       "dueDate": "2026-11-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/1408211",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1408211/assignments/9013158/submissions/446160576",
+      "submitted": true
     },
     {
       "title": "PS5",
