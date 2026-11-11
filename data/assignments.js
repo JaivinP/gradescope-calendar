@@ -274,6 +274,13 @@ assignments = {
       "dueDate": "2026-11-06T17:29:00",
       "link": "https://www.gradescope.com/courses/1410809/assignments/9018597/submissions/445685684",
       "submitted": true
+    },
+    {
+      "title": "Assignment 6: Low-level refactoring and performance",
+      "course": "26F-COM SCI-35L-LEC-1",
+      "dueDate": "2026-11-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/1410809",
+      "submitted": false
     }
   ],
   "26F-MATH-33A-LEC-1": [
