@@ -17,9 +17,9 @@ assignments = {
     {
       "title": "Extra Credit Quiz: Graphs and Greedy Algorithms",
       "course": "26F-COM SCI-180-LEC-2",
-      "dueDate": "2026-04-28T17:50:00",
-      "link": "https://www.gradescope.com/courses/1408211",
-      "submitted": false
+      "dueDate": "2026-11-10T17:01:00",
+      "link": "https://www.gradescope.com/courses/1408211/assignments/8699551/submissions/446967032",
+      "submitted": true
     },
     {
       "title": "Extra Credit Quiz: Recurrences",
