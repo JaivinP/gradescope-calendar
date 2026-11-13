@@ -24,9 +24,9 @@ assignments = {
     {
       "title": "Extra Credit Quiz: Recurrences",
       "course": "26F-COM SCI-180-LEC-2",
-      "dueDate": "2026-05-19T17:20:00",
-      "link": "https://www.gradescope.com/courses/1408211",
-      "submitted": false
+      "dueDate": "2026-11-12T17:20:00",
+      "link": "https://www.gradescope.com/courses/1408211/assignments/8699553/submissions/447731011",
+      "submitted": true
     },
     {
       "title": "Extra Credit: Bellman-Ford-Moore Tracing",
