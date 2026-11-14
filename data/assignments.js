@@ -174,6 +174,13 @@ assignments = {
       "dueDate": "2026-11-13T23:59:00",
       "link": "https://www.gradescope.com/courses/1408211/assignments/9057583/submissions/448196504",
       "submitted": true
+    },
+    {
+      "title": "PS6",
+      "course": "26F-COM SCI-180-LEC-2",
+      "dueDate": "2026-11-20T20:31:00",
+      "link": "https://www.gradescope.com/courses/1408211",
+      "submitted": false
     }
   ],
   "26F-COM SCI-35L-LEC-1": [
@@ -258,8 +265,8 @@ assignments = {
       "title": "Weekly Project Report 4",
       "course": "26F-COM SCI-35L-LEC-1",
       "dueDate": "2026-11-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/1410809/assignments/8920543/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1410809/assignments/8920543/submissions/448317125",
+      "submitted": true
     },
     {
       "title": "Worksheet 4",
