@@ -165,8 +165,8 @@ assignments = {
       "title": "Week 7 Discussion Individual Work",
       "course": "26F-COM SCI-180-LEC-2",
       "dueDate": "2026-11-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/1408211",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1408211/assignments/9057574/submissions/448671732",
+      "submitted": true
     },
     {
       "title": "Week 7 Discussion Group Check-In",
@@ -267,6 +267,13 @@ assignments = {
       "dueDate": "2026-11-13T23:59:00",
       "link": "https://www.gradescope.com/courses/1410809/assignments/8920543/submissions/448317125",
       "submitted": true
+    },
+    {
+      "title": "Weekly Project Report 5",
+      "course": "26F-COM SCI-35L-LEC-1",
+      "dueDate": "2026-11-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/1410809/assignments/8920545/submissions/new",
+      "submitted": false
     },
     {
       "title": "Worksheet 4",
