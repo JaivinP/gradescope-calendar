@@ -442,13 +442,20 @@ assignments = {
       "title": "Homework 18",
       "course": "26F-MATH-33A-LEC-1",
       "dueDate": "2026-11-16T09:00:00",
-      "link": "https://www.gradescope.com/courses/1410864",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1410864/assignments/8715694/submissions/448689191",
+      "submitted": true
     },
     {
       "title": "Homework 19",
       "course": "26F-MATH-33A-LEC-1",
       "dueDate": "2026-11-20T09:00:00",
+      "link": "https://www.gradescope.com/courses/1410864",
+      "submitted": false
+    },
+    {
+      "title": "Homework 20",
+      "course": "26F-MATH-33A-LEC-1",
+      "dueDate": "2026-11-23T09:00:00",
       "link": "https://www.gradescope.com/courses/1410864",
       "submitted": false
     }
