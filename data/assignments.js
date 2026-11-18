@@ -3,9 +3,9 @@ assignments = {
     {
       "title": "Extra Credit: Knapsack",
       "course": "26F-COM SCI-180-LEC-2",
-      "dueDate": "2026-05-21T17:50:00",
-      "link": "https://www.gradescope.com/courses/1408211",
-      "submitted": false
+      "dueDate": "2026-11-17T17:50:00",
+      "link": "https://www.gradescope.com/courses/1408211/assignments/8699549/submissions/449374007",
+      "submitted": true
     },
     {
       "title": "Extra Credit Quiz 1: Asymptotic Notation and Runtime Analysis",
