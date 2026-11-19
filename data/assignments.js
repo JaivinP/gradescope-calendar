@@ -306,7 +306,7 @@ assignments = {
     {
       "title": "Assignment 6: Low-level refactoring and performance",
       "course": "26F-COM SCI-35L-LEC-1",
-      "dueDate": "2026-11-18T23:59:00",
+      "dueDate": "2026-11-23T23:59:00",
       "link": "https://www.gradescope.com/courses/1410809",
       "submitted": false
     },
