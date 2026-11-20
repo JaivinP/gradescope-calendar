@@ -38,7 +38,7 @@ assignments = {
     {
       "title": "Extra Credit: Sequence Alignment Traceback",
       "course": "26F-COM SCI-180-LEC-2",
-      "dueDate": "2026-06-03T17:50:00",
+      "dueDate": "2026-11-19T17:50:00",
       "link": "https://www.gradescope.com/courses/1408211",
       "submitted": false
     },
@@ -178,7 +178,7 @@ assignments = {
     {
       "title": "PS6",
       "course": "26F-COM SCI-180-LEC-2",
-      "dueDate": "2026-11-20T20:31:00",
+      "dueDate": "2026-11-20T23:59:00",
       "link": "https://www.gradescope.com/courses/1408211",
       "submitted": false
     },
