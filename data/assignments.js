@@ -188,6 +188,20 @@ assignments = {
       "dueDate": "2026-12-04T23:59:00",
       "link": "https://www.gradescope.com/courses/1408211",
       "submitted": false
+    },
+    {
+      "title": "Week 8 Discussion Group Check-In",
+      "course": "26F-COM SCI-180-LEC-2",
+      "dueDate": "2026-11-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/1408211",
+      "submitted": false
+    },
+    {
+      "title": "Week 8 Discussion Individual Work",
+      "course": "26F-COM SCI-180-LEC-2",
+      "dueDate": "2026-11-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/1408211",
+      "submitted": false
     }
   ],
   "26F-COM SCI-35L-LEC-1": [
@@ -322,6 +336,13 @@ assignments = {
       "course": "26F-COM SCI-35L-LEC-1",
       "dueDate": "2026-11-13T17:46:00",
       "link": "https://www.gradescope.com/courses/1410809/assignments/9059121/submissions/448094027",
+      "submitted": true
+    },
+    {
+      "title": "Worksheet 8",
+      "course": "26F-COM SCI-35L-LEC-1",
+      "dueDate": "2026-11-20T17:47:00",
+      "link": "https://www.gradescope.com/courses/1410809/assignments/9100554/submissions/450611943",
       "submitted": true
     }
   ],
@@ -463,6 +484,13 @@ assignments = {
       "title": "Homework 20",
       "course": "26F-MATH-33A-LEC-1",
       "dueDate": "2026-11-23T09:00:00",
+      "link": "https://www.gradescope.com/courses/1410864",
+      "submitted": false
+    },
+    {
+      "title": "Homework 21",
+      "course": "26F-MATH-33A-LEC-1",
+      "dueDate": "2026-11-30T09:00:00",
       "link": "https://www.gradescope.com/courses/1410864",
       "submitted": false
     }
