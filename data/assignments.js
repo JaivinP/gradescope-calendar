@@ -500,6 +500,13 @@ assignments = {
       "dueDate": "2026-11-30T09:00:00",
       "link": "https://www.gradescope.com/courses/1410864",
       "submitted": false
+    },
+    {
+      "title": "Homework 22",
+      "course": "26F-MATH-33A-LEC-1",
+      "dueDate": "2026-11-30T09:00:00",
+      "link": "https://www.gradescope.com/courses/1410864",
+      "submitted": false
     }
   ]
 };
