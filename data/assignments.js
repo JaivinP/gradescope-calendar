@@ -179,8 +179,8 @@ assignments = {
       "title": "PS6",
       "course": "26F-COM SCI-180-LEC-2",
       "dueDate": "2026-11-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/1408211",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1408211/assignments/9060903/submissions/451106716",
+      "submitted": true
     },
     {
       "title": "PS8",
@@ -491,8 +491,8 @@ assignments = {
       "title": "Homework 20",
       "course": "26F-MATH-33A-LEC-1",
       "dueDate": "2026-11-23T09:00:00",
-      "link": "https://www.gradescope.com/courses/1410864",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1410864/assignments/8715714/submissions/451117605",
+      "submitted": true
     },
     {
       "title": "Homework 21",
