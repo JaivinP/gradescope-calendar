@@ -351,6 +351,27 @@ assignments = {
       "dueDate": "2026-11-20T17:47:00",
       "link": "https://www.gradescope.com/courses/1410809/assignments/9100554/submissions/450611943",
       "submitted": true
+    },
+    {
+      "title": "Project Presentation [Group Submission]",
+      "course": "26F-COM SCI-35L-LEC-1",
+      "dueDate": "2026-12-04T10:00:00",
+      "link": "https://www.gradescope.com/courses/1410809",
+      "submitted": false
+    },
+    {
+      "title": "Project Repo Submission [Group Submission]",
+      "course": "26F-COM SCI-35L-LEC-1",
+      "dueDate": "2026-12-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/1410809/assignments/9115881/submissions/new",
+      "submitted": false
+    },
+    {
+      "title": "Project Report [Individual Submission]",
+      "course": "26F-COM SCI-35L-LEC-1",
+      "dueDate": "2026-12-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/1410809",
+      "submitted": false
     }
   ],
   "26F-MATH-33A-LEC-1": [
