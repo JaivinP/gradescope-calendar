@@ -300,8 +300,8 @@ assignments = {
       "title": "Weekly Project Report 5",
       "course": "26F-COM SCI-35L-LEC-1",
       "dueDate": "2026-11-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/1410809",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1410809/assignments/8920545/submissions/451727308",
+      "submitted": true
     },
     {
       "title": "Worksheet 4",
@@ -526,6 +526,13 @@ assignments = {
       "title": "Homework 22",
       "course": "26F-MATH-33A-LEC-1",
       "dueDate": "2026-11-30T09:00:00",
+      "link": "https://www.gradescope.com/courses/1410864",
+      "submitted": false
+    },
+    {
+      "title": "Homework 23",
+      "course": "26F-MATH-33A-LEC-1",
+      "dueDate": "2026-12-02T09:00:00",
       "link": "https://www.gradescope.com/courses/1410864",
       "submitted": false
     }
